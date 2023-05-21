@@ -1,0 +1,15 @@
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\bin\Debug\net6.0\Example001_HelloCaonsole.exe
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\bin\Debug\net6.0\Example001_HelloCaonsole.deps.json
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\bin\Debug\net6.0\Example001_HelloCaonsole.runtimeconfig.json
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\bin\Debug\net6.0\Example001_HelloCaonsole.dll
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\bin\Debug\net6.0\Example001_HelloCaonsole.pdb
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.dll
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\refint\Example001_HelloCaonsole.dll
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.pdb
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\Example001_HelloCaonsole.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Desktop\Stusies\Programing\Examples\Example001_HelloCaonsole\obj\Debug\net6.0\ref\Example001_HelloCaonsole.dll
